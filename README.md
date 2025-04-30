@@ -4,8 +4,8 @@
 Go to https://ecngx256.inmotionhosting.com:2083 to access the hosting platform
 Sign in with the following credentials:
 
-	username: creat750
-	password: wJwn"8P>bc/D<@EL
+	username: xx
+	password: xx
 
 Go down to Domains and select "Zone Editor"
 Select "Manage" for the crclcrclcrcl.org domain
