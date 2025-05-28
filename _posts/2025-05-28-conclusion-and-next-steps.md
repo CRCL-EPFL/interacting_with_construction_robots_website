@@ -2,7 +2,7 @@
 layout: post
 title:  "Conclusion & Next Steps"
 date:   2025-05-28 09:00:00 +02:00
-image:  /assets/img/sample21.png
+image:  <img src="/assets/img/sample21.png" alt="Test">
 ---
 
 We’ve covered our prototype interfaces and shared code samples. The next phase is user testing on a mock construction site.
