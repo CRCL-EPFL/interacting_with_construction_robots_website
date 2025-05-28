@@ -2,7 +2,7 @@
 layout: post
 title:  "Getting Started with Human–Robot Interactions"
 date:   2025-05-26 10:00:00 +02:00
-image:  ![Description](/assets/images/sample21.jpg)
+image:  ![Description](/assets/images/sample28.jpg)
 ---
 
 Kick things off with an overview of how humans and robots can collaborate on construction sites. We’ll walk through our first prototype interface, its goals, and key design considerations.
