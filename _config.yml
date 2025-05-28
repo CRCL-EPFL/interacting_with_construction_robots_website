@@ -21,8 +21,8 @@
 title: Interacting With Construction Robots
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Uncertainty can abe an opportunity when humans and robots work together..
-  ..But we need good intrefaces!
+  Uncertainty can be an opportunity when humans and robots work together..
+                   ..But we need good intrefaces!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
