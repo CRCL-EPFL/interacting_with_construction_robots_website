@@ -2,7 +2,7 @@
 layout: post
 title:  "Interactive Demo: Uncertainty Visualization"
 date:   2025-05-27 14:30:00 +02:00
-image:  https://via.placeholder.com/800x400?text=Sample+Image+2
+image:  ![Description](/assets/images/sample18.jpg)
 ---
 
 In this demo, we visualize positional uncertainty of a construction robot arm. The UI displays confidence ellipses in real time as the robot moves.
