@@ -2,7 +2,8 @@
 layout: post
 title:  "Timber Proxy"
 date:   2025-05-28 09:00:00 +02:00
-image:  <img class="img-rounded" src="/_site/assets/img/sample21.png" alt="Thomas A. Anderson" width="200">
+image:  /assets/img/image28.png
+category: project
 ---
 
 We’ve covered our prototype interfaces and shared code samples. The next phase is user testing on a mock construction site.
