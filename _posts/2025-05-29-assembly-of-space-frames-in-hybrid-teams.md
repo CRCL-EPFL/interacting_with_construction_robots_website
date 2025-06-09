@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Assembly of Spaceframes in Hybrid Teams"
+title:  "ASSEMBLY OF SPACE FRAMES IN HYBRID TEAMS: Adaptive Digital Fabrication Workflows for Human-Robot Collaboration"
 date:   2025-05-27 14:30:00 +02:00
 image:  /assets/img/image10.jpg
 category: paper
