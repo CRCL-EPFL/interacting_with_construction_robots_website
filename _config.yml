@@ -4,6 +4,7 @@ email: eleni.skevaki@epfl.ch
 description: >- # this means to ignore newlines until "baseurl:"
   Uncertainty can be an opportunity when humans and robots work together..
   ..But we need good intrefaces!
+image: "/assets/img/image02.png"
 show_hero: false
 email: eleni.skevaki@epfl.ch
 baseurl: "" # the subpath of your site, e.g. /blog
