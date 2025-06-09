@@ -2,6 +2,23 @@
 ---
 @import "jekflix";
 
+// ——— Narrow post content width ———
+
+.post-content {
+  max-width: 600px;     // choose whatever width suits you
+  margin: 0 auto;       // center it in the page
+  padding: 0 1rem;      // small side padding on mobile
+}
+
+// Ensure images inside posts don’t overflow
+.post-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto;  // center images with some vertical spacing
+}
+
+
 // ——— Contact Page Overrides ———
 
 // Hero area above the form
