@@ -6,6 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   ..But we need good intrefaces!
 show_hero: false
 email: eleni.skevaki@epfl.ch
+sent_message_url: "/contact/message-sent/"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iwcr.crclcrclcrcl.org"
 # twitter_username: jekyllrb
