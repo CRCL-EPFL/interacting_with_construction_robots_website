@@ -51,3 +51,16 @@
   border-radius: 4px;
   font-size: 1rem;
 }
+
+.contact-form .form-group input,
+.contact-form .form-group textarea {
+  width: 100%;           // allow full flexibility…
+  max-width: 400px;      // …but never wider than 400px
+  margin: 0.5rem auto;   // vertical spacing + center horizontally
+}
+
+.contact-form button.btn {
+  display: block;        // make margin:auto work
+  margin: 1rem auto 0;   // top space, centered
+  width: auto;           // only as wide as its content
+}
