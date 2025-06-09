@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-![Eleni]({{ site.baseurl }}/assets/img/eleni.png)
+![Eleni]({{ site.baseurl }}/assets/img/eleni.jpg)
 
 # About
 
