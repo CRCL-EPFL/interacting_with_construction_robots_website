@@ -4,7 +4,6 @@ email: eleni.skevaki@epfl.ch
 description: >- # this means to ignore newlines until "baseurl:"
   Uncertainty can be an opportunity when humans and robots work together..
   ..But we need good intrefaces!
-image: "/assets/img/image02.png"
 show_hero: false
 email: eleni.skevaki@epfl.ch
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -19,6 +18,14 @@ plugins:
   - jekyll-remote-theme
 
 repository: CRCL-EPFL/sample-site
+
+defaults:
+  - scope:
+      path: ""       # apply everywhere
+      type: "pages"  # only files treated as pages
+      layout: "home" # only to files using layout: home
+    values:
+      image: "/assets/img/blog-image.png"
 
 menu:
   - title: Home
