@@ -2,7 +2,7 @@
 layout: post
 title:  "Assembly of Spaceframes in Hybrid Teams"
 date:   2025-05-27 14:30:00 +02:00
-image:  /assets/img/image10.png
+image:  /assets/img/image10.jpg
 category: paper
 ---
 
