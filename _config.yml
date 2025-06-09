@@ -1,11 +1,10 @@
 name : Interacting With Construction Robots
-title: Interacting With Construction Robots
-email: eleni.skevaki@epfl.ch
+title: Human-Robot Collaboration
 description: >- # this means to ignore newlines until "baseurl:"
   Uncertainty can be an opportunity when humans and robots work together..
   ..But we need good intrefaces!
 show_hero: false
-email: eleni.skevaki@epfl.ch
+email: https://formspree.io/f/mrbkpyjq
 sent_message_url: "/contact/message-sent/"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iwcr.crclcrclcrcl.org"
