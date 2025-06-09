@@ -3,6 +3,7 @@ layout: post
 title:  "Truss From Trash"
 date:   2025-05-27 14:30:00 +02:00
 image:  \_site\assets\img\sample18.png
+category: project
 ---
 
 In this demo, we visualize positional uncertainty of a construction robot arm. The UI displays confidence ellipses in real time as the robot moves.
