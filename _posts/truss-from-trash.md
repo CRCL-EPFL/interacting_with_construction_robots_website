@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interactive Demo  Uncertainty Visualization"
+title:  "Truss From Trash"
 date:   2025-05-27 14:30:00 +02:00
 image:  \_site\assets\img\sample18.png
 ---

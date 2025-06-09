@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Conclusion & Next Steps"
+title:  "Timber Proxy"
 date:   2025-05-28 09:00:00 +02:00
 image:  <img class="img-rounded" src="/_site/assets/img/sample21.png" alt="Thomas A. Anderson" width="200">
 ---
