@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Truss From Trash"
+title:  "DifCheck"
 date:   2025-05-27 14:30:00 +02:00
-image:  /assets/img/image18.png
-category: project
+image:  /assets/img/image00.png
+category: paper
 ---
 
 In this demo, we visualize positional uncertainty of a construction robot arm. The UI displays confidence ellipses in real time as the robot moves.
