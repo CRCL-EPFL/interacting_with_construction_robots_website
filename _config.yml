@@ -21,11 +21,9 @@ repository: CRCL-EPFL/sample-site
 menu:
   - title: Home
     url: /
-  - title: Getting Started
-    url: /2025-05-26-getting-started-with-interactions/
-  - title: Demos
-    url: /2025-05-27-interface-demo/
+  - title: About
+    url: /about
   - title: Publications
-    url: /2025-05-27-interface-demo/
-  - title: Conclusion
-    url: /2025-05-28-conclusion-and-next-steps/
+    url: /publications
+  - title: Contact
+    url: /contact/
