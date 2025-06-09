@@ -6,8 +6,23 @@ image:  /assets/img/image10.jpg
 category: paper
 ---
 
-In this demo, we visualize positional uncertainty of a construction robot arm. The UI displays confidence ellipses in real time as the robot moves.
+In spatial timber assemblies, a multitude of factors can lead
+to errors that hinder the implementation of complete automation
+including but not limited to inaccuracies of the robotic setup,
+deformations of the structures during assembly, or the natural
+dimensional variability of wood. Any unplanned event, construction
+detail, or material variability that was not embedded ahead of time in
+the CAD environment can cause failure. To mitigate these challenges,
 
-![Uncertainty Demo sample](https://via.placeholder.com/800x400?text=Sample+Image+2)
+this paper expands this conventional one-directional design-to-
+fabrication pipeline and proposes interactive digital fabrication
 
-Try clicking on the workspace to toggle between camera and LiDAR views t’s all powered by WebGL.
+workflows where humans and robots work synergistically, blending the
+adaptability of human craft with the precision of robotic technology.
+The method is validated with two prototypes comprising linear timber
+elements and 3d printed connections that showcase adaptability in the
+fabrication setup and allow for design changes to happen concurrently
+with fabrication. In this paradigm, human operators are not mere
+
+extensions of the robotic system but rather central to dynamic problem-
+solving and instrumental in making immediate adjustments.
