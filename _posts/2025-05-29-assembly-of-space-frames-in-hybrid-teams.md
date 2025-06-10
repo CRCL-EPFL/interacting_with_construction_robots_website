@@ -4,6 +4,10 @@ title:  "ASSEMBLY OF SPACE FRAMES IN HYBRID TEAMS: Adaptive Digital Fabrication 
 date:   2025-05-27 14:30:00 +02:00
 image:  /assets/img/image10.jpg
 category: paper
+tags:
+  - timber-assemblies
+  - spaceframes
+  - 3D=printed nodes
 ---
 
 <!-- Download button -->

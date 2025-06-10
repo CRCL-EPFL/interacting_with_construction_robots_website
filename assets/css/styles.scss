@@ -35,6 +35,22 @@
   transform: scale(1.05);
 }
 
+// ——— Publication Thumbnails & Titles ———
+
+.publication-thumb {
+  max-width: 120px;        // shrink thumbnails
+  height: auto;
+  display: block;
+  margin: 0 auto 0.5rem;   // center + space below for the title
+}
+
+.publication-title {
+  text-align: center;
+  font-size: 0.9rem;       // smaller text
+  margin: 0;               // remove default margins
+  color: $texts;           // match your theme text color
+}
+
 // ——— PDF Download Button ———
 
 // Target the button inside post content with higher specificity
