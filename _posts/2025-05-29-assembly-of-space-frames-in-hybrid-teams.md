@@ -10,7 +10,7 @@ tags:
   - 3D-printed nodes
 ---
 
-**Team** Eleni Skevaki, Dr Marirena Kladeftira, Alexandra Nicole Pittiglio, Dr Prof Stefana Parascho
+**Team:** Eleni Skevaki, Dr. Marirena Kladeftira, Alexandra Nicole Pittiglio, Dr. Prof. Stefana Parascho
 
 <!-- Download button -->
 <p>

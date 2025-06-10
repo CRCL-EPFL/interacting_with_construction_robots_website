@@ -9,4 +9,6 @@ tags:
   - timber-offcuts
 ---
 
+**Team:** Eleni Skevaki, Eric Duong, Hong-Bin Yang, Dr. Prof. Stefana Parascho
+
 Coming Soon!

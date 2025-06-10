@@ -9,6 +9,8 @@ tags:
   - point-clouds
 ---
 
+**Team:** Andrea Settimi*, Damien Gilliard*, Eleni Skevaki*, Dr. Marirena Kladeftira, Julien Gammero, Dr. Prof. Stefana Parascho,  Prof. Yves Weinand
+
 <!-- Download button -->
 <p>
   <a
