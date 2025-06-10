@@ -6,16 +6,14 @@ permalink: /publications/
 
 <h1>Publications</h1>
 
-<ul class="post-list">
+<ul class="publication-list">
   {% for post in site.categories.paper %}
-    <li class="post-item">
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      {% if post.date %}
-        <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
-      {% endif %}
-      {% if post.excerpt %}
-        <p>{{ post.excerpt }}</p>
-      {% endif %}
-    </li>
+    {% if post.image %}
+      <li class="publication-item">
+        <a href="{{ post.url | relative_url }}">
+          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+        </a>
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>
