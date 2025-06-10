@@ -6,6 +6,16 @@ image:  /assets/img/image00.png
 category: paper
 ---
 
+<!-- Download button -->
+<p>
+  <a
+    href="{{ '/assets/papers/25_diffcheck.pdf' | relative_url }}"
+    download
+    class="btn download-btn">
+    📄 Download Full Paper (PDF)
+  </a>
+</p>
+
 In digital timber construction, scanning technologies and point cloud data are
 widely used due to the accessibility of affordable 3D sensors, photogrammetry, and user-friendly
 CAD tools. While typically not employed for accuracy checks in timber fabrication due to the precision of standard machinery, 
