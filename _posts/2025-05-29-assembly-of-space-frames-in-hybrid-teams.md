@@ -8,9 +8,10 @@ category: paper
 
 <!-- Download button -->
 <p>
-  <a href="{{ '/assets/papers/24_caadria.pdf' | relative_url }}"
-     download
-     class="btn">
+  <a
+    href="{{ '/assets/papers/24_caadria.pdf' | relative_url }}"
+    download
+    class="btn download-btn">
     📄 Download Full Paper (PDF)
   </a>
 </p>
