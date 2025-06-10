@@ -6,6 +6,15 @@ image:  /assets/img/image10.jpg
 category: paper
 ---
 
+<!-- Download button -->
+<p>
+  <a href="{{ '/assets/papers/24_caadria.pdf' | relative_url }}"
+     download
+     class="btn">
+    📄 Download Full Paper (PDF)
+  </a>
+</p>
+
 In spatial timber assemblies, a multitude of factors can lead
 to errors that hinder the implementation of complete automation
 including but not limited to inaccuracies of the robotic setup,
