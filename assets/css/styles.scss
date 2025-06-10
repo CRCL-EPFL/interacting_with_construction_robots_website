@@ -14,6 +14,12 @@
   height: 300px;         // or remove if you want the theme’s default
 }
 
+.post-image {
+  max-width: 200px;
+  display: block;
+  margin: 2rem auto;
+}
+
 
 // ——— Contact Page Overrides ———
 
