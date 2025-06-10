@@ -38,8 +38,10 @@
 // ——— Publication Thumbnails & Titles ———
 
 .publication-list .publication-item img.publication-thumb {
-  max-width: 80px !important;
-  width: auto;   // allow the natural aspect ratio
+  width: 80px !important;       // ← change this to whatever fixed width you want
+  height: auto !important;
+  display: block;                // so margin:auto works
+  margin: 0 auto 0.5rem;         // center + space below for the title
 }
 
 .publication-title {
