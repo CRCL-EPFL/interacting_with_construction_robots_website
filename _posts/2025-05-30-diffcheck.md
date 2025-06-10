@@ -4,6 +4,9 @@ title:  "DiffCheck: a Scan-CAD Evaluation Tool for Digital Manufacturing and Ass
 date:   2025-05-27 14:30:00 +02:00
 image:  /assets/img/image00.png
 category: paper
+tags:
+  - grasshopper-plugin
+  - point-clouds
 ---
 
 <!-- Download button -->

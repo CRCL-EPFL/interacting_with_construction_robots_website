@@ -7,7 +7,7 @@ category: paper
 tags:
   - timber-assemblies
   - spaceframes
-  - 3D=printed nodes
+  - 3D-printed nodes
 ---
 
 **Team** Eleni Skevaki, Dr Marirena Kladeftira, Alexandra Nicole Pittiglio, Dr Prof Stefana Parascho
