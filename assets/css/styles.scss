@@ -37,11 +37,9 @@
 
 // ——— Publication Thumbnails & Titles ———
 
-.publication-thumb {
-  max-width: 80px;        // shrink thumbnails
-  height: auto;
-  display: block;
-  margin: 0 auto 0.5rem;   // center + space below for the title
+.publication-list .publication-item img.publication-thumb {
+  max-width: 80px !important;
+  width: auto;   // allow the natural aspect ratio
 }
 
 .publication-title {
