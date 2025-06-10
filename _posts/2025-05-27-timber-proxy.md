@@ -8,6 +8,6 @@ tags:
   - tui
 ---
 
-**Team:** Eleni Skevaki, Dr. Marirena Kladeftira, Dr. Prof. Stefana Parascho
+**Team:** Eleni Skevaki, Dr. Marirena Kladeftira, Dr. Prof. Ziqi Wang, Dr. Prof. Stefana Parascho
 
 Coming Soon!
