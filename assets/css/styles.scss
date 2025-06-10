@@ -13,15 +13,17 @@
 
 // ——— PDF Download Button ———
 
-.btn.download-btn {
-  background: #4a90e2;          // a pleasant blue (swap for any hex you like)
-  border-color: #4a90e2;        // match the border
-  color: #ffffff;               // white text
+// Target the button inside post content with higher specificity
+.post-content a.btn.download-btn {
+  background-color: #4a90e2 !important;
+  border-color:     #4a90e2 !important;
+  color:            #ffffff !important;
+  text-decoration:  none !important;
 }
 
-.btn.download-btn:hover {
-  background: darken(#4a90e2, 7%);   // slightly darker on hover
-  border-color: darken(#4a90e2, 10%);
+.post-content a.btn.download-btn:hover {
+  background-color: darken(#4a90e2, 7%)  !important;
+  border-color:     darken(#4a90e2, 10%) !important;
 }
 
 // ——— Contact Page Overrides ———
